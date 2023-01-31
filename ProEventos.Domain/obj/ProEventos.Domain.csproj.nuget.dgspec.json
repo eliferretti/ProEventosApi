@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\Cursos\\Angular+CSharp  full stack\\PROEVENTOS\\Back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj": {}
+    "C:\\Users\\eli.filho\\Desktop\\dddd\\ProEventosApi\\ProEventos.Domain\\ProEventos.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\Cursos\\Angular+CSharp  full stack\\PROEVENTOS\\Back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj": {
+    "C:\\Users\\eli.filho\\Desktop\\dddd\\ProEventosApi\\ProEventos.Domain\\ProEventos.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\Cursos\\Angular+CSharp  full stack\\PROEVENTOS\\Back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\eli.filho\\Desktop\\dddd\\ProEventosApi\\ProEventos.Domain\\ProEventos.Domain.csproj",
         "projectName": "ProEventos.Domain",
-        "projectPath": "C:\\Projetos\\Cursos\\Angular+CSharp  full stack\\PROEVENTOS\\Back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj",
+        "projectPath": "C:\\Users\\eli.filho\\Desktop\\dddd\\ProEventosApi\\ProEventos.Domain\\ProEventos.Domain.csproj",
         "packagesPath": "C:\\Users\\eli.filho\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\Cursos\\Angular+CSharp  full stack\\PROEVENTOS\\Back\\src\\ProEventos.Domain\\obj\\",
+        "outputPath": "C:\\Users\\eli.filho\\Desktop\\dddd\\ProEventosApi\\ProEventos.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
