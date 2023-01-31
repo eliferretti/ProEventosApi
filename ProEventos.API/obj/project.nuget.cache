@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LQOqExMlCkZf5DTdedSrHuUpy58G6vxkDUTmH9S+Va+xu+8KavNJes7jWssq+JxK86ViLYggACZksM3VHsxklw==",
+  "dgSpecHash": "hr//iIhMYNZ3SzVhGtpbjJ+cZ6ju7fHeuEwoDCx/WBUc2ob9DaxEg69/oojg0oQYKuXLIgTUNDEBqyJj+4OYkg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\eli.filho\\Desktop\\dddd\\ProEventosApi\\ProEventos.API\\ProEventos.API.csproj",
+  "projectFilePath": "C:\\Projetos\\Cursos\\Angular+CSharp  full stack\\PROEVENTOS\\ProEventosApi\\ProEventos.API\\ProEventos.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eli.filho\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\eli.filho\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\5.0.4\\microsoft.aspnetcore.jsonpatch.5.0.4.nupkg.sha512",

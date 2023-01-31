@@ -1024,11 +1024,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eli.filho\\Desktop\\dddd\\ProEventosApi\\ProEventos.Aplication\\ProEventos.Aplication.csproj",
+      "projectUniqueName": "C:\\Projetos\\Cursos\\Angular+CSharp  full stack\\PROEVENTOS\\ProEventosApi\\ProEventos.Aplication\\ProEventos.Aplication.csproj",
       "projectName": "ProEventos.Aplication",
-      "projectPath": "C:\\Users\\eli.filho\\Desktop\\dddd\\ProEventosApi\\ProEventos.Aplication\\ProEventos.Aplication.csproj",
+      "projectPath": "C:\\Projetos\\Cursos\\Angular+CSharp  full stack\\PROEVENTOS\\ProEventosApi\\ProEventos.Aplication\\ProEventos.Aplication.csproj",
       "packagesPath": "C:\\Users\\eli.filho\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eli.filho\\Desktop\\dddd\\ProEventosApi\\ProEventos.Aplication\\obj\\",
+      "outputPath": "C:\\Projetos\\Cursos\\Angular+CSharp  full stack\\PROEVENTOS\\ProEventosApi\\ProEventos.Aplication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1050,11 +1050,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\eli.filho\\Desktop\\dddd\\ProEventosApi\\ProEventos.Domain\\ProEventos.Domain.csproj": {
-              "projectPath": "C:\\Users\\eli.filho\\Desktop\\dddd\\ProEventosApi\\ProEventos.Domain\\ProEventos.Domain.csproj"
+            "C:\\Projetos\\Cursos\\Angular+CSharp  full stack\\PROEVENTOS\\ProEventosApi\\ProEventos.Domain\\ProEventos.Domain.csproj": {
+              "projectPath": "C:\\Projetos\\Cursos\\Angular+CSharp  full stack\\PROEVENTOS\\ProEventosApi\\ProEventos.Domain\\ProEventos.Domain.csproj"
             },
-            "C:\\Users\\eli.filho\\Desktop\\dddd\\ProEventosApi\\ProEventos.Persistence\\ProEventos.Persistence.csproj": {
-              "projectPath": "C:\\Users\\eli.filho\\Desktop\\dddd\\ProEventosApi\\ProEventos.Persistence\\ProEventos.Persistence.csproj"
+            "C:\\Projetos\\Cursos\\Angular+CSharp  full stack\\PROEVENTOS\\ProEventosApi\\ProEventos.Persistence\\ProEventos.Persistence.csproj": {
+              "projectPath": "C:\\Projetos\\Cursos\\Angular+CSharp  full stack\\PROEVENTOS\\ProEventosApi\\ProEventos.Persistence\\ProEventos.Persistence.csproj"
             }
           }
         }
