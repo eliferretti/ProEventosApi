@@ -55,3 +55,23 @@ C:\Projetos\Cursos\Angular+CSharp  full stack\PROEVENTOS\Back\src\ProEventos.Apl
 C:\Projetos\Cursos\Angular+CSharp  full stack\PROEVENTOS\Back\src\ProEventos.Aplication\obj\Debug\net5.0\ProEventos.Aplication.pdb
 C:\Projetos\Cursos\Angular+CSharp  full stack\PROEVENTOS\Back\src\ProEventos.Aplication\obj\Debug\net5.0\ProEventos.Aplication.genruntimeconfig.cache
 C:\Projetos\Cursos\Angular+CSharp  full stack\PROEVENTOS\Back\src\ProEventos.Aplication\obj\Debug\net5.0\ref\ProEventos.Aplication.dll
+C:\Users\eli.filho\Desktop\dddd\ProEventosApi\ProEventos.Aplication\bin\Debug\net5.0\ProEventos.Aplication.deps.json
+C:\Users\eli.filho\Desktop\dddd\ProEventosApi\ProEventos.Aplication\bin\Debug\net5.0\ProEventos.Aplication.runtimeconfig.json
+C:\Users\eli.filho\Desktop\dddd\ProEventosApi\ProEventos.Aplication\bin\Debug\net5.0\ProEventos.Aplication.runtimeconfig.dev.json
+C:\Users\eli.filho\Desktop\dddd\ProEventosApi\ProEventos.Aplication\bin\Debug\net5.0\ProEventos.Aplication.dll
+C:\Users\eli.filho\Desktop\dddd\ProEventosApi\ProEventos.Aplication\bin\Debug\net5.0\ProEventos.Aplication.pdb
+C:\Users\eli.filho\Desktop\dddd\ProEventosApi\ProEventos.Aplication\bin\Debug\net5.0\ProEventos.Domain.dll
+C:\Users\eli.filho\Desktop\dddd\ProEventosApi\ProEventos.Aplication\bin\Debug\net5.0\ProEventos.Persistence.dll
+C:\Users\eli.filho\Desktop\dddd\ProEventosApi\ProEventos.Aplication\bin\Debug\net5.0\ProEventos.Domain.pdb
+C:\Users\eli.filho\Desktop\dddd\ProEventosApi\ProEventos.Aplication\bin\Debug\net5.0\ProEventos.Persistence.pdb
+C:\Users\eli.filho\Desktop\dddd\ProEventosApi\ProEventos.Aplication\obj\Debug\net5.0\ProEventos.Aplication.csproj.AssemblyReference.cache
+C:\Users\eli.filho\Desktop\dddd\ProEventosApi\ProEventos.Aplication\obj\Debug\net5.0\ProEventos.Aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eli.filho\Desktop\dddd\ProEventosApi\ProEventos.Aplication\obj\Debug\net5.0\ProEventos.Aplication.AssemblyInfoInputs.cache
+C:\Users\eli.filho\Desktop\dddd\ProEventosApi\ProEventos.Aplication\obj\Debug\net5.0\ProEventos.Aplication.AssemblyInfo.cs
+C:\Users\eli.filho\Desktop\dddd\ProEventosApi\ProEventos.Aplication\obj\Debug\net5.0\ProEventos.Aplication.csproj.CoreCompileInputs.cache
+C:\Users\eli.filho\Desktop\dddd\ProEventosApi\ProEventos.Aplication\obj\Debug\net5.0\ProEventos.Aplication.csproj.CopyComplete
+C:\Users\eli.filho\Desktop\dddd\ProEventosApi\ProEventos.Aplication\obj\Debug\net5.0\ProEventos.Aplication.dll
+C:\Users\eli.filho\Desktop\dddd\ProEventosApi\ProEventos.Aplication\obj\Debug\net5.0\refint\ProEventos.Aplication.dll
+C:\Users\eli.filho\Desktop\dddd\ProEventosApi\ProEventos.Aplication\obj\Debug\net5.0\ProEventos.Aplication.pdb
+C:\Users\eli.filho\Desktop\dddd\ProEventosApi\ProEventos.Aplication\obj\Debug\net5.0\ProEventos.Aplication.genruntimeconfig.cache
+C:\Users\eli.filho\Desktop\dddd\ProEventosApi\ProEventos.Aplication\obj\Debug\net5.0\ref\ProEventos.Aplication.dll

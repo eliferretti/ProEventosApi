@@ -49,3 +49,21 @@ C:\Projetos\Cursos\Angular+CSharp  full stack\PROEVENTOS\Back\src\ProEventos.Per
 C:\Projetos\Cursos\Angular+CSharp  full stack\PROEVENTOS\Back\src\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.pdb
 C:\Projetos\Cursos\Angular+CSharp  full stack\PROEVENTOS\Back\src\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.genruntimeconfig.cache
 C:\Projetos\Cursos\Angular+CSharp  full stack\PROEVENTOS\Back\src\ProEventos.Persistence\obj\Debug\net5.0\ref\ProEventos.Persistence.dll
+C:\Users\eli.filho\Desktop\dddd\ProEventosApi\ProEventos.Persistence\bin\Debug\net5.0\ProEventos.Persistence.deps.json
+C:\Users\eli.filho\Desktop\dddd\ProEventosApi\ProEventos.Persistence\bin\Debug\net5.0\ProEventos.Persistence.runtimeconfig.json
+C:\Users\eli.filho\Desktop\dddd\ProEventosApi\ProEventos.Persistence\bin\Debug\net5.0\ProEventos.Persistence.runtimeconfig.dev.json
+C:\Users\eli.filho\Desktop\dddd\ProEventosApi\ProEventos.Persistence\bin\Debug\net5.0\ProEventos.Persistence.dll
+C:\Users\eli.filho\Desktop\dddd\ProEventosApi\ProEventos.Persistence\bin\Debug\net5.0\ProEventos.Persistence.pdb
+C:\Users\eli.filho\Desktop\dddd\ProEventosApi\ProEventos.Persistence\bin\Debug\net5.0\ProEventos.Domain.dll
+C:\Users\eli.filho\Desktop\dddd\ProEventosApi\ProEventos.Persistence\bin\Debug\net5.0\ProEventos.Domain.pdb
+C:\Users\eli.filho\Desktop\dddd\ProEventosApi\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.csproj.AssemblyReference.cache
+C:\Users\eli.filho\Desktop\dddd\ProEventosApi\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eli.filho\Desktop\dddd\ProEventosApi\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.AssemblyInfoInputs.cache
+C:\Users\eli.filho\Desktop\dddd\ProEventosApi\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.AssemblyInfo.cs
+C:\Users\eli.filho\Desktop\dddd\ProEventosApi\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\eli.filho\Desktop\dddd\ProEventosApi\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.csproj.CopyComplete
+C:\Users\eli.filho\Desktop\dddd\ProEventosApi\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.dll
+C:\Users\eli.filho\Desktop\dddd\ProEventosApi\ProEventos.Persistence\obj\Debug\net5.0\refint\ProEventos.Persistence.dll
+C:\Users\eli.filho\Desktop\dddd\ProEventosApi\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.pdb
+C:\Users\eli.filho\Desktop\dddd\ProEventosApi\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.genruntimeconfig.cache
+C:\Users\eli.filho\Desktop\dddd\ProEventosApi\ProEventos.Persistence\obj\Debug\net5.0\ref\ProEventos.Persistence.dll
