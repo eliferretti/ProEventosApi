@@ -75,3 +75,23 @@ C:\Users\eli.filho\Desktop\dddd\ProEventosApi\ProEventos.Aplication\obj\Debug\ne
 C:\Users\eli.filho\Desktop\dddd\ProEventosApi\ProEventos.Aplication\obj\Debug\net5.0\ProEventos.Aplication.pdb
 C:\Users\eli.filho\Desktop\dddd\ProEventosApi\ProEventos.Aplication\obj\Debug\net5.0\ProEventos.Aplication.genruntimeconfig.cache
 C:\Users\eli.filho\Desktop\dddd\ProEventosApi\ProEventos.Aplication\obj\Debug\net5.0\ref\ProEventos.Aplication.dll
+C:\Projetos\Cursos\Angular+CSharp  full stack\PROEVENTOS\ProEventosApi\ProEventos.Aplication\bin\Debug\net5.0\ProEventos.Aplication.deps.json
+C:\Projetos\Cursos\Angular+CSharp  full stack\PROEVENTOS\ProEventosApi\ProEventos.Aplication\bin\Debug\net5.0\ProEventos.Aplication.runtimeconfig.json
+C:\Projetos\Cursos\Angular+CSharp  full stack\PROEVENTOS\ProEventosApi\ProEventos.Aplication\bin\Debug\net5.0\ProEventos.Aplication.runtimeconfig.dev.json
+C:\Projetos\Cursos\Angular+CSharp  full stack\PROEVENTOS\ProEventosApi\ProEventos.Aplication\bin\Debug\net5.0\ProEventos.Aplication.dll
+C:\Projetos\Cursos\Angular+CSharp  full stack\PROEVENTOS\ProEventosApi\ProEventos.Aplication\bin\Debug\net5.0\ProEventos.Aplication.pdb
+C:\Projetos\Cursos\Angular+CSharp  full stack\PROEVENTOS\ProEventosApi\ProEventos.Aplication\bin\Debug\net5.0\ProEventos.Domain.dll
+C:\Projetos\Cursos\Angular+CSharp  full stack\PROEVENTOS\ProEventosApi\ProEventos.Aplication\bin\Debug\net5.0\ProEventos.Persistence.dll
+C:\Projetos\Cursos\Angular+CSharp  full stack\PROEVENTOS\ProEventosApi\ProEventos.Aplication\bin\Debug\net5.0\ProEventos.Domain.pdb
+C:\Projetos\Cursos\Angular+CSharp  full stack\PROEVENTOS\ProEventosApi\ProEventos.Aplication\bin\Debug\net5.0\ProEventos.Persistence.pdb
+C:\Projetos\Cursos\Angular+CSharp  full stack\PROEVENTOS\ProEventosApi\ProEventos.Aplication\obj\Debug\net5.0\ProEventos.Aplication.csproj.AssemblyReference.cache
+C:\Projetos\Cursos\Angular+CSharp  full stack\PROEVENTOS\ProEventosApi\ProEventos.Aplication\obj\Debug\net5.0\ProEventos.Aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Cursos\Angular+CSharp  full stack\PROEVENTOS\ProEventosApi\ProEventos.Aplication\obj\Debug\net5.0\ProEventos.Aplication.AssemblyInfoInputs.cache
+C:\Projetos\Cursos\Angular+CSharp  full stack\PROEVENTOS\ProEventosApi\ProEventos.Aplication\obj\Debug\net5.0\ProEventos.Aplication.AssemblyInfo.cs
+C:\Projetos\Cursos\Angular+CSharp  full stack\PROEVENTOS\ProEventosApi\ProEventos.Aplication\obj\Debug\net5.0\ProEventos.Aplication.csproj.CoreCompileInputs.cache
+C:\Projetos\Cursos\Angular+CSharp  full stack\PROEVENTOS\ProEventosApi\ProEventos.Aplication\obj\Debug\net5.0\ProEventos.Aplication.csproj.CopyComplete
+C:\Projetos\Cursos\Angular+CSharp  full stack\PROEVENTOS\ProEventosApi\ProEventos.Aplication\obj\Debug\net5.0\ProEventos.Aplication.dll
+C:\Projetos\Cursos\Angular+CSharp  full stack\PROEVENTOS\ProEventosApi\ProEventos.Aplication\obj\Debug\net5.0\refint\ProEventos.Aplication.dll
+C:\Projetos\Cursos\Angular+CSharp  full stack\PROEVENTOS\ProEventosApi\ProEventos.Aplication\obj\Debug\net5.0\ProEventos.Aplication.pdb
+C:\Projetos\Cursos\Angular+CSharp  full stack\PROEVENTOS\ProEventosApi\ProEventos.Aplication\obj\Debug\net5.0\ProEventos.Aplication.genruntimeconfig.cache
+C:\Projetos\Cursos\Angular+CSharp  full stack\PROEVENTOS\ProEventosApi\ProEventos.Aplication\obj\Debug\net5.0\ref\ProEventos.Aplication.dll
