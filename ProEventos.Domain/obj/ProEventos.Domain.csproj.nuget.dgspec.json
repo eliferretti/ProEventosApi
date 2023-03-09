@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\Cursos\\Angular+CSharp  full stack\\PROEVENTOS\\ProEventosApi\\ProEventos.Domain\\ProEventos.Domain.csproj": {}
+    "C:\\PROJETOS\\APRENDIZADO\\ProEventosApi\\ProEventos.Domain\\ProEventos.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\Cursos\\Angular+CSharp  full stack\\PROEVENTOS\\ProEventosApi\\ProEventos.Domain\\ProEventos.Domain.csproj": {
+    "C:\\PROJETOS\\APRENDIZADO\\ProEventosApi\\ProEventos.Domain\\ProEventos.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\Cursos\\Angular+CSharp  full stack\\PROEVENTOS\\ProEventosApi\\ProEventos.Domain\\ProEventos.Domain.csproj",
+        "projectUniqueName": "C:\\PROJETOS\\APRENDIZADO\\ProEventosApi\\ProEventos.Domain\\ProEventos.Domain.csproj",
         "projectName": "ProEventos.Domain",
-        "projectPath": "C:\\Projetos\\Cursos\\Angular+CSharp  full stack\\PROEVENTOS\\ProEventosApi\\ProEventos.Domain\\ProEventos.Domain.csproj",
-        "packagesPath": "C:\\Users\\eli.filho\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\Cursos\\Angular+CSharp  full stack\\PROEVENTOS\\ProEventosApi\\ProEventos.Domain\\obj\\",
+        "projectPath": "C:\\PROJETOS\\APRENDIZADO\\ProEventosApi\\ProEventos.Domain\\ProEventos.Domain.csproj",
+        "packagesPath": "C:\\Users\\Dev\\.nuget\\packages\\",
+        "outputPath": "C:\\PROJETOS\\APRENDIZADO\\ProEventosApi\\ProEventos.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\eli.filho\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Dev\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -71,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -70,3 +70,18 @@ C:\Projetos\Cursos\Angular+CSharp  full stack\PROEVENTOS\ProEventosApi\ProEvento
 C:\Projetos\Cursos\Angular+CSharp  full stack\PROEVENTOS\ProEventosApi\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.pdb
 C:\Projetos\Cursos\Angular+CSharp  full stack\PROEVENTOS\ProEventosApi\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.genruntimeconfig.cache
 C:\Projetos\Cursos\Angular+CSharp  full stack\PROEVENTOS\ProEventosApi\ProEventos.Domain\obj\Debug\net5.0\ref\ProEventos.Domain.dll
+C:\PROJETOS\APRENDIZADO\ProEventosApi\ProEventos.Domain\bin\Debug\net5.0\ProEventos.Domain.deps.json
+C:\PROJETOS\APRENDIZADO\ProEventosApi\ProEventos.Domain\bin\Debug\net5.0\ProEventos.Domain.runtimeconfig.json
+C:\PROJETOS\APRENDIZADO\ProEventosApi\ProEventos.Domain\bin\Debug\net5.0\ProEventos.Domain.runtimeconfig.dev.json
+C:\PROJETOS\APRENDIZADO\ProEventosApi\ProEventos.Domain\bin\Debug\net5.0\ProEventos.Domain.dll
+C:\PROJETOS\APRENDIZADO\ProEventosApi\ProEventos.Domain\bin\Debug\net5.0\ref\ProEventos.Domain.dll
+C:\PROJETOS\APRENDIZADO\ProEventosApi\ProEventos.Domain\bin\Debug\net5.0\ProEventos.Domain.pdb
+C:\PROJETOS\APRENDIZADO\ProEventosApi\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.csproj.AssemblyReference.cache
+C:\PROJETOS\APRENDIZADO\ProEventosApi\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS\APRENDIZADO\ProEventosApi\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.AssemblyInfoInputs.cache
+C:\PROJETOS\APRENDIZADO\ProEventosApi\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.AssemblyInfo.cs
+C:\PROJETOS\APRENDIZADO\ProEventosApi\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.csproj.CoreCompileInputs.cache
+C:\PROJETOS\APRENDIZADO\ProEventosApi\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.dll
+C:\PROJETOS\APRENDIZADO\ProEventosApi\ProEventos.Domain\obj\Debug\net5.0\ref\ProEventos.Domain.dll
+C:\PROJETOS\APRENDIZADO\ProEventosApi\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.pdb
+C:\PROJETOS\APRENDIZADO\ProEventosApi\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.genruntimeconfig.cache
