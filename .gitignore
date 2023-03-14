@@ -398,3 +398,15 @@ FodyWeavers.xsd
 *.sln.iml
 
 ProEventos.API/obj/
+ProEventos.API/obj/Debug/net5.0/ProEventos.API.assets.cache
+ProEventos.API/obj/Debug/net5.0/ProEventos.API.csproj.AssemblyReference.cache
+ProEventos.API/obj/Debug/net5.0/ProEventos.API.GeneratedMSBuildEditorConfig.editorconfig
+ProEventos.Aplication/obj/Debug/net5.0/ProEventos.Aplication.assets.cache
+ProEventos.Aplication/obj/Debug/net5.0/ProEventos.Aplication.csproj.AssemblyReference.cache
+ProEventos.Aplication/obj/Debug/net5.0/ProEventos.Aplication.GeneratedMSBuildEditorConfig.editorconfig
+ProEventos.Domain/obj/Debug/net5.0/ProEventos.Domain.assets.cache
+ProEventos.Domain/obj/Debug/net5.0/ProEventos.Domain.csproj.AssemblyReference.cache
+ProEventos.Domain/obj/Debug/net5.0/ProEventos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+ProEventos.Persistence/obj/Debug/net5.0/ProEventos.Persistence.assets.cache
+ProEventos.Persistence/obj/Debug/net5.0/ProEventos.Persistence.csproj.AssemblyReference.cache
+ProEventos.Persistence/obj/Debug/net5.0/ProEventos.Persistence.GeneratedMSBuildEditorConfig.editorconfig
