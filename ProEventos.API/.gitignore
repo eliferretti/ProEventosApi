@@ -11,3 +11,6 @@ ProEventos.Domain/obj/Debug/net5.0/ProEventos.Domain.GeneratedMSBuildEditorConfi
 ProEventos.Persistence/obj/Debug/net5.0/ProEventos.Persistence.assets.cache
 ProEventos.Persistence/obj/Debug/net5.0/ProEventos.Persistence.csproj.AssemblyReference.cache
 ProEventos.Persistence/obj/Debug/net5.0/ProEventos.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+ProEventos.API/obj/Debug/net5.0/ProEventos.API.csproj.AssemblyReference.cache
+ProEventos.Aplication/obj/Debug/net5.0/ProEventos.Aplication.csproj.AssemblyReference.cache
+ProEventos.Persistence/obj/Debug/net5.0/ProEventos.Persistence.csproj.AssemblyReference.cache
