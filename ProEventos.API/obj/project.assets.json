@@ -6060,19 +6060,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Dev\\.nuget\\packages\\": {}
+    "C:\\Users\\Carolina Ferretti\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\PROJETOS\\APRENDIZADO\\ProEventosApi\\ProEventos.API\\ProEventos.API.csproj",
+      "projectUniqueName": "C:\\Projetos\\ProEventos\\ProEventosApi\\ProEventos.API\\ProEventos.API.csproj",
       "projectName": "ProEventos.API",
-      "projectPath": "C:\\PROJETOS\\APRENDIZADO\\ProEventosApi\\ProEventos.API\\ProEventos.API.csproj",
-      "packagesPath": "C:\\Users\\Dev\\.nuget\\packages\\",
-      "outputPath": "C:\\PROJETOS\\APRENDIZADO\\ProEventosApi\\ProEventos.API\\obj\\",
+      "projectPath": "C:\\Projetos\\ProEventos\\ProEventosApi\\ProEventos.API\\ProEventos.API.csproj",
+      "packagesPath": "C:\\Users\\Carolina Ferretti\\.nuget\\packages\\",
+      "outputPath": "C:\\Projetos\\ProEventos\\ProEventosApi\\ProEventos.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Dev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Carolina Ferretti\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6086,8 +6086,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\PROJETOS\\APRENDIZADO\\ProEventosApi\\ProEventos.Aplication\\ProEventos.Aplication.csproj": {
-              "projectPath": "C:\\PROJETOS\\APRENDIZADO\\ProEventosApi\\ProEventos.Aplication\\ProEventos.Aplication.csproj"
+            "C:\\Projetos\\ProEventos\\ProEventosApi\\ProEventos.Aplication\\ProEventos.Aplication.csproj": {
+              "projectPath": "C:\\Projetos\\ProEventos\\ProEventosApi\\ProEventos.Aplication\\ProEventos.Aplication.csproj"
             }
           }
         }
@@ -6143,7 +6143,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
