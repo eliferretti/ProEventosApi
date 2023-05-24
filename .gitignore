@@ -452,3 +452,4 @@ $RECYCLE.BIN/
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+ProEventos.API/bin/Debug/net5.0
