@@ -397,7 +397,7 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 
-ProEventos.API/obj/
+ProEventos.API/obj
 ProEventos.API/obj/Debug/net5.0/ProEventos.API.assets.cache
 ProEventos.API/obj/Debug/net5.0/ProEventos.API.csproj.AssemblyReference.cache
 ProEventos.API/obj/Debug/net5.0/ProEventos.API.GeneratedMSBuildEditorConfig.editorconfig
@@ -417,3 +417,10 @@ ProEventos.API/obj/Debug/net5.0/ProEventos.API.csproj.AssemblyReference.cache
 ProEventos.API/obj/Debug/net5.0/project.razor.json
 ProEventos.Aplication/obj/Debug/net5.0/ProEventos.Aplication.csproj.AssemblyReference.cache
 ProEventos.Persistence/obj/Debug/net5.0/ProEventos.Persistence.csproj.AssemblyReference.cache
+ProEventos.API/obj/Debug/net5.0/ProEventos.API.assets.cache
+ProEventos.API/obj
+
+ProEventos.API/obj/Debug/net5.0/ProEventos.API.csproj.AssemblyReference.cache
+ProEventos.Persistence/obj
+ProEventos.Domain/obj
+ProEventos.Aplication/obj
