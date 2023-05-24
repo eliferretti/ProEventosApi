@@ -423,4 +423,5 @@ ProEventos.API/obj
 ProEventos.API/obj/Debug/net5.0/ProEventos.API.csproj.AssemblyReference.cache
 ProEventos.Persistence/obj
 ProEventos.Domain/obj
+
 ProEventos.Aplication/obj
