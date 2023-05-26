@@ -897,11 +897,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\PROJETOS\\APRENDIZADO\\ProEventosApi\\ProEventos.Domain\\ProEventos.Domain.csproj",
+      "projectUniqueName": "C:\\PROJETOS\\APRENDIZADO\\ProEventosApi\\ProEventos.Domain\\ProEventos.Domain.csproj",
       "projectName": "ProEventos.Domain",
-      "projectPath": "c:\\PROJETOS\\APRENDIZADO\\ProEventosApi\\ProEventos.Domain\\ProEventos.Domain.csproj",
+      "projectPath": "C:\\PROJETOS\\APRENDIZADO\\ProEventosApi\\ProEventos.Domain\\ProEventos.Domain.csproj",
       "packagesPath": "C:\\Users\\Dev\\.nuget\\packages\\",
-      "outputPath": "c:\\PROJETOS\\APRENDIZADO\\ProEventosApi\\ProEventos.Domain\\obj\\",
+      "outputPath": "C:\\PROJETOS\\APRENDIZADO\\ProEventosApi\\ProEventos.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dev\\AppData\\Roaming\\NuGet\\NuGet.Config",

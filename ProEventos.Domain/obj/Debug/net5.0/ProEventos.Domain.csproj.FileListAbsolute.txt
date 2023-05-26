@@ -74,7 +74,6 @@ C:\PROJETOS\APRENDIZADO\ProEventosApi\ProEventos.Domain\bin\Debug\net5.0\ProEven
 C:\PROJETOS\APRENDIZADO\ProEventosApi\ProEventos.Domain\bin\Debug\net5.0\ProEventos.Domain.runtimeconfig.json
 C:\PROJETOS\APRENDIZADO\ProEventosApi\ProEventos.Domain\bin\Debug\net5.0\ProEventos.Domain.runtimeconfig.dev.json
 C:\PROJETOS\APRENDIZADO\ProEventosApi\ProEventos.Domain\bin\Debug\net5.0\ProEventos.Domain.dll
-C:\PROJETOS\APRENDIZADO\ProEventosApi\ProEventos.Domain\bin\Debug\net5.0\ref\ProEventos.Domain.dll
 C:\PROJETOS\APRENDIZADO\ProEventosApi\ProEventos.Domain\bin\Debug\net5.0\ProEventos.Domain.pdb
 C:\PROJETOS\APRENDIZADO\ProEventosApi\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.csproj.AssemblyReference.cache
 C:\PROJETOS\APRENDIZADO\ProEventosApi\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.GeneratedMSBuildEditorConfig.editorconfig
@@ -85,3 +84,4 @@ C:\PROJETOS\APRENDIZADO\ProEventosApi\ProEventos.Domain\obj\Debug\net5.0\ProEven
 C:\PROJETOS\APRENDIZADO\ProEventosApi\ProEventos.Domain\obj\Debug\net5.0\ref\ProEventos.Domain.dll
 C:\PROJETOS\APRENDIZADO\ProEventosApi\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.pdb
 C:\PROJETOS\APRENDIZADO\ProEventosApi\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.genruntimeconfig.cache
+C:\PROJETOS\APRENDIZADO\ProEventosApi\ProEventos.Domain\bin\Debug\net5.0\ref\ProEventos.Domain.dll

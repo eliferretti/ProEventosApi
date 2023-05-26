@@ -89,7 +89,6 @@ C:\PROJETOS\APRENDIZADO\ProEventosApi\ProEventos.Persistence\bin\Debug\net5.0\Pr
 C:\PROJETOS\APRENDIZADO\ProEventosApi\ProEventos.Persistence\bin\Debug\net5.0\ProEventos.Persistence.runtimeconfig.json
 C:\PROJETOS\APRENDIZADO\ProEventosApi\ProEventos.Persistence\bin\Debug\net5.0\ProEventos.Persistence.runtimeconfig.dev.json
 C:\PROJETOS\APRENDIZADO\ProEventosApi\ProEventos.Persistence\bin\Debug\net5.0\ProEventos.Persistence.dll
-C:\PROJETOS\APRENDIZADO\ProEventosApi\ProEventos.Persistence\bin\Debug\net5.0\ref\ProEventos.Persistence.dll
 C:\PROJETOS\APRENDIZADO\ProEventosApi\ProEventos.Persistence\bin\Debug\net5.0\ProEventos.Persistence.pdb
 C:\PROJETOS\APRENDIZADO\ProEventosApi\ProEventos.Persistence\bin\Debug\net5.0\ProEventos.Domain.dll
 C:\PROJETOS\APRENDIZADO\ProEventosApi\ProEventos.Persistence\bin\Debug\net5.0\ProEventos.Domain.pdb
@@ -103,3 +102,4 @@ C:\PROJETOS\APRENDIZADO\ProEventosApi\ProEventos.Persistence\obj\Debug\net5.0\Pr
 C:\PROJETOS\APRENDIZADO\ProEventosApi\ProEventos.Persistence\obj\Debug\net5.0\ref\ProEventos.Persistence.dll
 C:\PROJETOS\APRENDIZADO\ProEventosApi\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.pdb
 C:\PROJETOS\APRENDIZADO\ProEventosApi\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.genruntimeconfig.cache
+C:\PROJETOS\APRENDIZADO\ProEventosApi\ProEventos.Persistence\bin\Debug\net5.0\ref\ProEventos.Persistence.dll
