@@ -12,6 +12,7 @@ using ProEventos.Persistence.Contextos;
 using ProEventos.Persistence.Contratos;
 using AutoMapper;
 using System;
+using Newtonsoft.Json.Converters;
 
 namespace ProEventos.API
 {
@@ -47,6 +48,15 @@ namespace ProEventos.API
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "ProEventos.API", Version = "v1" });
+            });
+            services.AddControllers()
+            .AddNewtonsoftJson(options =>
+            {
+                var dateTimeConverter = new IsoDateTimeConverter
+                {
+                    DateTimeFormat = "yyyy-MM-dd hh:mm"
+                };
+                options.SerializerSettings.Converters.Add(dateTimeConverter);
             });
         }
 
