@@ -42,22 +42,25 @@ namespace ProEventos.API
 
             services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
             services.AddScoped<IEventoService, EventoService>();
+            services.AddScoped<ILoteService, LoteService>();
             services.AddScoped<IGeralPersist, GeralPersist>();
             services.AddScoped<IEventoPersist, EventoPersist>();
+            services.AddScoped<ILotePersist, LotePersist>();
             services.AddCors();
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "ProEventos.API", Version = "v1" });
             });
-            services.AddControllers()
-            .AddNewtonsoftJson(options =>
-            {
-                var dateTimeConverter = new IsoDateTimeConverter
-                {
-                    DateTimeFormat = "yyyy-MM-dd hh:mm"
-                };
-                options.SerializerSettings.Converters.Add(dateTimeConverter);
-            });
+            //services.AddControllers()
+            // .AddNewtonsoftJson(options =>
+            // {
+            //     var dateTimeConverter = new IsoDateTimeConverter
+            //     {
+            //         //DateTimeFormat = "yyyy-MM-dd hh:mm"
+            //         DateTimeFormat = "MM-dd-yyyy hh:mm"
+            //     };
+            //     options.SerializerSettings.Converters.Add(dateTimeConverter);
+            // });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
