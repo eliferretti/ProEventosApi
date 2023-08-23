@@ -119,5 +119,5 @@ C:\Projetos\ProEventos\ProEventosApi\ProEventos.Persistence\obj\Debug\net5.0\Pro
 C:\Projetos\ProEventos\ProEventosApi\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.pdb
 C:\Projetos\ProEventos\ProEventosApi\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.genruntimeconfig.cache
 C:\Projetos\ProEventos\ProEventosApi\ProEventos.Persistence\obj\Debug\net5.0\ref\ProEventos.Persistence.dll
-C:\Projetos\ProEventos\ProEventosApi\ProEventos.Persistence\bin\Debug\net5.0\ref\ProEventos.Persistence.dll
 C:\Projetos\ProEventos\ProEventosApi\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.csproj.CopyComplete
+C:\Projetos\ProEventos\ProEventosApi\ProEventos.Persistence\obj\Debug\net5.0\refint\ProEventos.Persistence.dll

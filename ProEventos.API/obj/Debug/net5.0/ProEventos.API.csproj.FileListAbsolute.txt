@@ -649,5 +649,5 @@ C:\Projetos\ProEventos\ProEventosApi\ProEventos.API\obj\Debug\net5.0\ProEventos.
 C:\Projetos\ProEventos\ProEventosApi\ProEventos.API\obj\Debug\net5.0\ProEventos.API.pdb
 C:\Projetos\ProEventos\ProEventosApi\ProEventos.API\obj\Debug\net5.0\ProEventos.API.genruntimeconfig.cache
 C:\Projetos\ProEventos\ProEventosApi\ProEventos.API\obj\Debug\net5.0\ref\ProEventos.API.dll
-C:\Projetos\ProEventos\ProEventosApi\ProEventos.API\bin\Debug\net5.0\ref\ProEventos.API.dll
 C:\Projetos\ProEventos\ProEventosApi\ProEventos.API\obj\Debug\net5.0\ProEventos.API.csproj.CopyComplete
+C:\Projetos\ProEventos\ProEventosApi\ProEventos.API\obj\Debug\net5.0\refint\ProEventos.API.dll
