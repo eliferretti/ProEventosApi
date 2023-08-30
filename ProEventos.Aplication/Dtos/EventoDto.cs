@@ -24,22 +24,10 @@ namespace ProEventos.Aplication.Dtos
         [Required(ErrorMessage = "O Campo {0} é obrigatório.")]
         [EmailAddress(ErrorMessage ="O Campo {0} precisa ser um e-mail válido.")]
         public string Email { get; set; }
+        public int UserId { get; set; }
+        public UserDto UserDto { get; set; }
         public IEnumerable<LoteDto> Lotes { get; set; }
         public IEnumerable<RedeSocialDto> RedesSociais { get; set; }
         public IEnumerable<PalestranteDto> Palestrantes { get; set; }
     }
 }
-
-// {
-//   "id": 6,
-//   "local": "t2 Leblon - Rio de janeiro",
-//   "dataEvento": "20/01/2023 10:30:20",
-//   "tema": "t Recode Pro 2023",
-//   "qtdPessoas": 2,
-//   "imagemUrl": "trecodepro.jpg",
-//   "telefone": "119u83323845",
-//   "email": "trecorerecode.org.br",
-//   "lotes": [],
-//   "redesSociais": [],
-//   "palestrantes": null
-// }
