@@ -10,7 +10,7 @@ namespace ProEventos.Aplication.Contratos
         Task<bool> UserExists(string userName);
         Task<UserUpdateDto> GetUserbyUserNameAsync(string userName);
         Task<SignInResult> CheckUserPasswordAsync(UserUpdateDto userUpdateDto, string password);
-        Task<UserDto> CreateAccountAsync(UserDto userDto);
+        Task<UserUpdateDto> CreateAccountAsync(UserDto userDto);
         Task<UserUpdateDto> UpdateAccount(UserUpdateDto userUpdateDto);
         Task CheckUserPasswordAsync(ClaimsPrincipal user, string password);
     }

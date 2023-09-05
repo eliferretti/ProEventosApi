@@ -24,7 +24,7 @@ namespace ProEventos.API.Controllers
             _tokenService = tokenService;
         }
 
-        [HttpGet("GetUsers")]
+        [HttpGet("GetUser")]
         public async Task<IActionResult> GetUser()
         {
             try 
@@ -46,13 +46,18 @@ namespace ProEventos.API.Controllers
         {
             try
             {
-                if (await _accountService.UserExists(userDto.Username))
+                if (await _accountService.UserExists(userDto.UserName))
                     return BadRequest("Usuário já existe");
 
                 var user = await _accountService.CreateAccountAsync(userDto);
  
                 if (user != null)
-                    return Ok(user);
+                    return Ok( new
+                    {
+                        userName = user.UserName,
+                        primeiroNome = user.PrimeiroNome,
+                        token = await _tokenService.CreateToken(user)
+                    });
 
                 return BadRequest("Usuário não criado, tente novamente mais tarde!");
             }
@@ -68,6 +73,9 @@ namespace ProEventos.API.Controllers
         {
             try
             {
+                if (userUpdateDto.UserName != User.GetUserName()) 
+                    return Unauthorized("Usuário inválido"); 
+
                 var user = await _accountService.GetUserbyUserNameAsync(User.GetUserName());
 
                 if (user == null) 
@@ -78,7 +86,12 @@ namespace ProEventos.API.Controllers
                 if (userReturn == null) 
                     return NoContent();
 
-                return Ok(userReturn);
+                return Ok(new
+                {
+                    userName = userReturn.UserName,
+                    primeiroNome = userReturn.PrimeiroNome,
+                    token = await _tokenService.CreateToken(userReturn)
+                });
             }
             catch (Exception ex)
             {
@@ -101,7 +114,7 @@ namespace ProEventos.API.Controllers
 
                 return Ok( new
                 {
-                    useName = user.UserName,
+                    userName = user.UserName,
                     primeiroNome = user.PrimeiroNome,
                     token = await _tokenService.CreateToken(user)
                 });

@@ -655,5 +655,5 @@ C:\Projetos\ProEventos\ProEventosApi\ProEventos.API\bin\Debug\net5.0\Microsoft.A
 C:\Projetos\ProEventos\ProEventosApi\ProEventos.API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\Projetos\ProEventos\ProEventosApi\ProEventos.API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
 C:\Projetos\ProEventos\ProEventosApi\ProEventos.API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
-C:\Projetos\ProEventos\ProEventosApi\ProEventos.API\obj\Debug\net5.0\refint\ProEventos.API.dll
 C:\Projetos\ProEventos\ProEventosApi\ProEventos.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Projetos\ProEventos\ProEventosApi\ProEventos.API\obj\Debug\net5.0\refint\ProEventos.API.dll
