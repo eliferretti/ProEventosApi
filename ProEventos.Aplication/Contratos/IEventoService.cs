@@ -1,5 +1,6 @@
 ﻿using System.Threading.Tasks;
 using ProEventos.Aplication.Dtos;
+using ProEventos.Persistence.Models;
 
 namespace ProEventos.Aplication.Contratos
 {
@@ -8,8 +9,7 @@ namespace ProEventos.Aplication.Contratos
         Task<EventoDto> AddEventos(int userId, EventoDto model); 
         Task<EventoDto> UpdateEvento(int userId, int eventoId, EventoDto model);
         Task<bool> DeleteEvento(int userId, int eventoId);
-        Task<EventoDto[]> GetAllEventosAsync(int userId, bool includePalestrantes);
-        Task<EventoDto[]> GetAllEventosByTemaAsync(int userId, string tema, bool includePalestrantes);
+        Task<PageList<EventoDto>> GetAllEventosAsync(int userId, PageParams pageParams, bool includePalestrantes);
         Task<EventoDto> GetEventoByIdAsync(int userId, int eventoId, bool includePalestrantes);
     }
 }
