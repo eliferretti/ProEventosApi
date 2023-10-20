@@ -1,4 +1,5 @@
-﻿using System.Threading.Tasks;
+﻿using System;
+using System.Threading.Tasks;
 using ProEventos.Aplication.Dtos;
 using ProEventos.Persistence.Models;
 
@@ -11,5 +12,6 @@ namespace ProEventos.Aplication.Contratos
         Task<bool> DeleteEvento(int userId, int eventoId);
         Task<PageList<EventoDto>> GetAllEventosAsync(int userId, PageParams pageParams, bool includePalestrantes);
         Task<EventoDto> GetEventoByIdAsync(int userId, int eventoId, bool includePalestrantes);
+        //Task GetEventoByIdAsync(Func<int> getUserId, int eventoId, bool v);
     }
 }

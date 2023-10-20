@@ -10,9 +10,7 @@ using ProEventos.Aplication.Contratos;
 using ProEventos.Persistence;
 using ProEventos.Persistence.Contextos;
 using ProEventos.Persistence.Contratos;
-using AutoMapper;
 using System;
-using Newtonsoft.Json.Converters;
 using Microsoft.Extensions.FileProviders;
 using System.IO;
 using Microsoft.AspNetCore.Http;
@@ -23,6 +21,7 @@ using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
 using System.Collections.Generic;
+using roEventos.API.Helpers;
 
 namespace ProEventos.API
 {
@@ -35,17 +34,11 @@ namespace ProEventos.API
 
         public IConfiguration Configuration { get; }
 
-        // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContext<ProEventosContext>(
-                
-                // SQLite
+             
                 context => context.UseSqlite(Configuration.GetConnectionString("Default"))
-                //context => context.UseMySql(Configuration.GetConnectionString("Default"))
-
-                // SQLServer
-                //context => context.UseSqlServer(Configuration.GetConnectionString("Default"))
             );
 
             services.AddIdentityCore<User>(options =>
@@ -89,11 +82,17 @@ namespace ProEventos.API
             services.AddScoped<ILoteService, LoteService>();
             services.AddScoped<ITokenService, TokenService>();
             services.AddScoped<IAccountService, AccountService>();
+            services.AddScoped<IPalestranteService, PalestranteService>();
+            services.AddScoped<IRedeSocialService, RedeSocialService>();
+            services.AddScoped<IUtil, Util>();
 
             services.AddScoped<IGeralPersist, GeralPersist>();
             services.AddScoped<IEventoPersist, EventoPersist>();
             services.AddScoped<ILotePersist, LotePersist>();            
             services.AddScoped<IUserPersist, UserPersist>();
+            services.AddScoped<IPalestrantePersist, PalestrantePersist>();
+            services.AddScoped<IRedeSocialPersist, RedeSocialPersist>();
+
 
             services.AddCors();
             services.AddSwaggerGen(options =>
@@ -127,19 +126,8 @@ namespace ProEventos.API
                     }
                 });
             });
-            //services.AddControllers()
-            // .AddNewtonsoftJson(options =>
-            // {
-            //     var dateTimeConverter = new IsoDateTimeConverter
-            //     {
-            //         //DateTimeFormat = "yyyy-MM-dd hh:mm"
-            //         DateTimeFormat = "MM-dd-yyyy hh:mm"
-            //     };
-            //     options.SerializerSettings.Converters.Add(dateTimeConverter);
-            // });
         }
 
-        // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
             if (env.IsDevelopment())

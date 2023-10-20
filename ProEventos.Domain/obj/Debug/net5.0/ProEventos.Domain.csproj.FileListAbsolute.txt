@@ -99,4 +99,4 @@ C:\Projetos\ProEventos\ProEventosApi\ProEventos.Domain\obj\Debug\net5.0\ProEvent
 C:\Projetos\ProEventos\ProEventosApi\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.pdb
 C:\Projetos\ProEventos\ProEventosApi\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.genruntimeconfig.cache
 C:\Projetos\ProEventos\ProEventosApi\ProEventos.Domain\obj\Debug\net5.0\ref\ProEventos.Domain.dll
-C:\Projetos\ProEventos\ProEventosApi\ProEventos.Domain\bin\Debug\net5.0\ref\ProEventos.Domain.dll
+C:\Projetos\ProEventos\ProEventosApi\ProEventos.Domain\obj\Debug\net5.0\refint\ProEventos.Domain.dll
